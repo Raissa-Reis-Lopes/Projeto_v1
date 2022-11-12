@@ -1,5 +1,4 @@
 # Projeto_v1
-Criando repositório git
 
+Clonando repositório
 
-Aula T.ex
